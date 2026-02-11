@@ -25,5 +25,3 @@ Technical Stack & Architecture
 
 • Fully responsive layouts for desktop, tablet, and mobile devices
 
-• Wizard pattern with clear progress indicators and validation feedback
-The application follows modern banking industry standards with comprehensive error handling for scenarios like invalid phone numbers, expired OTPs, and missing loan data, ensuring a reliable and professional user experience for banking agents.
