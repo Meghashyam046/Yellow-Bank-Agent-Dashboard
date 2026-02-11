@@ -5,6 +5,7 @@ Modern Banking Agent Management System
 Your project is a comprehensive React.js application designed specifically for banking agents to manage customer authentication and loan accounts efficiently. The system provides a professional, secure, and user-friendly interface for banking operations.
 
 Core Features & Functionality
+
 • Multi-step authentication flow with phone number and date of birth collection
 • Secure OTP verification system for enhanced security
 • Interactive loan account cards for easy viewing and selection
